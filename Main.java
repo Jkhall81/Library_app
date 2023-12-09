@@ -7,6 +7,13 @@ public class Main {
         // app.searchByIsbn("83471");
         // app.checkOutBook("83471");
         // app.checkOutBook("83000");
-        app.checkInBook("83471");
+        app.checkOutBook("83471");
+        app.checkOutBook("83471");
+        app.checkOutBook("83471");
+        app.checkOutBook("83471");
+        app.checkOutBook("83471");
+        app.checkOutBook("83471");
+        app.checkOutBook("83471");
+        app.checkOutBook("83471");
     }
 }
